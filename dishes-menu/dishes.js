@@ -9,4 +9,3 @@ if(x >= 10) {
     console.log("Orange");
 }
 
-//test
